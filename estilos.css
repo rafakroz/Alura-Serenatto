@@ -35,3 +35,11 @@ input[type=checkbox]:focus {
 .banners-titulo {
   --bs-bg-opacity: .2;
 }
+
+.banner-2 {
+  background-image: url(./assets/banner-2.png);
+}
+
+.banner-3 {
+  background-image: url(./assets/banner-3.png);
+}
